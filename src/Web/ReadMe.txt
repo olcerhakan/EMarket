@@ -1,0 +1,4 @@
+﻿install-package Microsoft.AspNetCore.Identity
+install-package Microsoft.AspNetCore.Identity.EntityFrameworkCore
+install-package Microsoft.EntityFrameworkCore.Tools
+install-package Microsoft.EntityFrameworkCore.SqlServer
